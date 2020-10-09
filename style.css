@@ -13,13 +13,13 @@ body {
 form {
     display: flex;
     flex-flow: column;
-    background-color: #032f40a1;
+    background-color: #134c63a1;
     border-width: 2px; border-style: solid; border-color: #032f40a1; border-radius: 10px; margin: 5px 10px;
     padding: 20px 20px;
 }
 
 img {
-    border-width: 8px; border-style: solid; border-color: darkcyan; border-radius: 50%;
+    border-width: 8px; border-style: solid; border-color: #7fd2f357; border-radius: 50%;
     width: 100px;
     
 }
@@ -33,7 +33,7 @@ h1 {
 
 h2 {
     text-align: center;
-    color: darkgrey;
+    color: #a9a9a9;
     font-family: 'Comfortaa', cursive;
     font-size: 25px;
     margin-top: 2px;
